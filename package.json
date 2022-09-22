@@ -1,0 +1,19 @@
+{
+  "name": "themovie-js",
+  "version": "1.0.0",
+  "description": "Consumo de api con JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeprepue/themovie-JS.git"
+  },
+  "author": "@yeprepue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeprepue/themovie-JS/issues"
+  },
+  "homepage": "https://github.com/yeprepue/themovie-JS#readme"
+}
