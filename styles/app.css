@@ -2,20 +2,20 @@
 * { box-sizing: border-box; }
 
 :root {
-  --purple-light-1: #EEEAF2;
-  --purple-light-2: #EEEAF2;
-  --purple-medium-1: #ade4e9;
-  --purple-medium-2: #81cddd;
-  --purple-medium-3: #208db4;
-  --purple-dark-1: #054279;
-  --purple-dark-2: #043b74;
+  --purple-light-1: #075264;
+  --purple-light-2: #f5c399;
+  --purple-medium-1: #db4062;
+  --purple-medium-2: #121414;
+  --purple-medium-3: #16495e;
+  --purple-dark-1: #cf7b1b;
+  --purple-dark-2: #cf7b1b;
 
-  --yellow: #dad5cf;
-  --green: #CAD297;
+  --yellow: #eaee0e;
+  --green: #43ec10;
   --aqua: #B7EAC5;
-  --lightBlue: #A2EEE5;
+  --lightBlue: #dd273f;
   --darkBlue: #8EA2EA;
-  --red: #F09D9D;
+  --red: #f11010;
 
   --font-family-titles: 'Dosis', sans-serif;
   --font-family-text: 'Red Hat Display', sans-serif;

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yeprepue/themovie-JS/issues"
   },
-  "homepage": "https://github.com/yeprepue/themovie-JS#readme"
+  "homepage": "https://github.com/yeprepue/themovie-JS#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
